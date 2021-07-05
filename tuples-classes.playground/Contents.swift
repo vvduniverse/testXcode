@@ -36,5 +36,4 @@ group[4].age
 
 for i in group {
     print(i.name, i.isMeried, i.age)
-    print("!!!!")
 }
